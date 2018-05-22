@@ -1,5 +1,7 @@
 # DickensonEO
-Emily Dickenson poems in Esperanto, translated by Mike Overby
+Emily DICKENSON poetzioj en Esperanto, tradukita de Mike OVERBY.
+
+Mi estas komencanto de Esperanto, do mi poezioj eble ne estu tre bona Esperanto.
 
 If you see gx, jx, hx, etc., the x stands for the preceding letter with the appropriate diacritic. I didn't have those letters on my keyboard when I typed out that poem. PRs welcome!
 
