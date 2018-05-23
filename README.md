@@ -1,5 +1,5 @@
-# DickensonEO
-Emily DICKENSON poetzioj en Esperanto, tradukita de Mike OVERBY.
+# DickinsonEO
+Emily DICKINSON poetzioj en Esperanto, tradukita de Mike OVERBY.
 
 Mi estas komencanto de Esperanto, do mi poezioj eble ne estu tre bona Esperanto.
 
